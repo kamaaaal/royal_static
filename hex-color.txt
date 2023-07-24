@@ -1,0 +1,8 @@
+> This colors are from the logo 
+
+#0e1853 -> logo subtext blue
+#047245 -> logo text green
+
+> palete inspired 
+
+#9fffd7 -> light green can be used on overlays 
